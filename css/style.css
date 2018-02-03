@@ -2,5 +2,6 @@
 
 /* CSS Syntax: */
 p {
-  font: 16px;
+  font: 1em;
+  list-style: 1.5em;
 }
